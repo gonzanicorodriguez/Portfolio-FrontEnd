@@ -1,0 +1,43 @@
+
+img{
+    background-color: silver;
+    height: 50px;
+    width: 50px;
+    margin: 20px 20px;
+}
+/*
+filter: grayscale(200%);
+#instagram{
+    background-color: black;
+    height: 80px;
+    width:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#linkedin{
+    background-color: black;
+    height: 80px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#git{
+    background-color: black;
+    height: 80px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#facebook{
+    background-color: black;
+    height: 80px;
+    width: 50px;
+    margin: 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}*/
