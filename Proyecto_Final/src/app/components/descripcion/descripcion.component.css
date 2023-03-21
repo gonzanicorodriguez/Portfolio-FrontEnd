@@ -1,0 +1,33 @@
+div{
+    /*z-index: 1;*/
+    background-color: paleturquoise ;
+    text-align: center;
+}
+#name{
+
+    font-weight: bold;
+}
+/*UN MODIFICADOR SEGÚN EL TAMAÑO DE PANTALLA
+min-width --> limite del menor tamaño*/
+@media (min-width: 576px){
+    #perfil{
+        position: absolute;
+        width: 15%;
+        height: 10%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 0%;
+        top: 350px;
+    }
+}
+@media (max-width: 575px){
+    #perfil{
+        position: absolute;
+        width: 15%;
+        height: 10%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 0%;
+        top: 350px;
+    }
+}
